@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @beatrizdiniz1
-- 👀 I’m interested in front-end dvelopment
+- 👀 I’m interested in front-end development
 - 🌱 I’m currently learning html, css and javascript 
 
 <!---
